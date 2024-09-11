@@ -18,7 +18,7 @@ The app features an **intuitive interface** that allows users to interact with a
 
 Task App is optimized for mobile devices and is accessible through the Power Apps platform, providing a smooth and efficient experience for managing student tasks.
 
-### Application Preview
+### Application Video Preview
 
 [Task App](https://youtube.com/shorts/SFe2brzGxbc?feature=share)
 
