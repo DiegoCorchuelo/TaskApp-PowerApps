@@ -1,23 +1,26 @@
 # Task App
 
-## Descripción de la Aplicación
+## Application Description
 
-Task App es una aplicación **móvil** desarrollada en **Power Apps** diseñada para simplificar la gestión de tareas asignadas a estudiantes. La aplicación permite a los usuarios visualizar una galería de estudiantes y asignarles tareas de manera eficiente.
+Task App is a **mobile** application developed in **Power Apps** designed to simplify task management for students. The app allows users to view a gallery of students and efficiently assign tasks to each one.
 
-### Funciones principales
-- **Galería de estudiantes**: Muestra una lista de estudiantes donde se pueden seleccionar para asignarles tareas específicas.
-- **Crear tareas**: Los usuarios pueden crear nuevas tareas para cada estudiante de forma sencilla e intuitiva.
-- **Editar tareas**: Las tareas asignadas se pueden modificar, actualizando su información según sea necesario.
-- **Completar y eliminar tareas**: Las tareas se pueden marcar como completadas y, una vez finalizadas, se eliminan automáticamente del sistema.
+### Main Features
+- **Student Gallery**: Displays a list of students where users can select and assign specific tasks to them.
+- **Create Tasks**: Users can easily create new tasks for each student in an intuitive way.
+- **Edit Tasks**: Assigned tasks can be modified, updating their information as needed.
+- **Complete and Delete Tasks**: Tasks can be marked as completed, and once finalized, they are automatically removed from the system.
 
-### Interacción del Usuario
-La aplicación presenta una **interfaz intuitiva** que permite al usuario interactuar con una galería de estudiantes. Para cada estudiante, el usuario puede:
-- Crear una nueva tarea.
-- Editar una tarea existente.
-- Marcar una tarea como completada.
+### User Interaction
+The app features an **intuitive interface** that allows users to interact with a gallery of students. For each student, users can:
+- Create a new task.
+- Edit an existing task.
+- Mark a task as completed.
 
-Task App está optimizada para dispositivos móviles y es accesible a través de la plataforma Power Apps, proporcionando una experiencia fluida y eficiente para gestionar las tareas de los estudiantes.
+Task App is optimized for mobile devices and is accessible through the Power Apps platform, providing a smooth and efficient experience for managing student tasks.
 
-### Vista previa de la aplicación
-[Vista previa](/IMG_0063.MP4)
+### Application Preview
+
+[Task App](https://youtube.com/shorts/SFe2brzGxbc?feature=share)
+
+[![Task App](/TaskAppImage.png)](https://youtube.com/shorts/SFe2brzGxbc?feature=share)
 
